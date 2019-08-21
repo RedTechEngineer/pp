@@ -3,4 +3,4 @@
 pp.
 
 ## What even is this?
-This repo contains nothing but a variety of languages that only print pp to the console.
+This repository contains nothing but a variety of different languages that only print pp to the console.
