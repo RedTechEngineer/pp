@@ -1,1 +1,1 @@
-std::cout << "pp" << std::endl;
+cout << "pp"
