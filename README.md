@@ -1,4 +1,4 @@
-# PP [![Discord](https://img.shields.io/discord/597051257668108314.svg)](https://discord.amelia.fun) 
+# PP
 
 pp.
 
